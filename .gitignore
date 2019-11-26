@@ -1,0 +1,8 @@
+## Python pipenvenv/
+.env
+.venv
+env/
+venv/
+## gitpod
+.theia
+
